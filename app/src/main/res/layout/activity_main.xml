@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/back"
+    android:gravity="center"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:height="30dp"
+            android:fontFamily="cursive"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:text="@string/title"
+            android:textAlignment="center"
+            android:letterSpacing="0.3"
+            android:layout_marginBottom="20dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#fff" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <ImageButton
+            android:id="@+id/mesha"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_gravity="center_vertical"
+            android:layout_margin="10dp"
+            android:layout_marginStart="10dp"
+            android:background="@drawable/mesha"
+            android:clickable="true"
+            android:contentDescription="@string/mesha"
+            android:onClick="mesha" />
+
+        <ImageButton
+            android:id="@+id/vrishabha"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/vrishabha"
+            android:clickable="true"
+            android:contentDescription="@string/vrishabha"
+            android:onClick="vrishabha" />
+
+
+        <ImageButton
+            android:layout_marginEnd="10dp"
+            android:id="@+id/mithuna"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/mithuna"
+            android:contentDescription="@string/mithuna"
+            android:layout_margin="10dp"
+            android:onClick="mithuna"
+            android:clickable="true"
+            />
+			
+			</LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2">
+		
+		
+			<ImageButton
+            android:layout_marginEnd="10dp"
+            android:id="@+id/karka"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/karka"
+            android:contentDescription="@string/karka"
+            android:layout_margin="10dp"
+            android:onClick="karka"
+            android:clickable="true"
+            />
+			
+			<ImageButton
+            android:layout_marginEnd="10dp"
+            android:id="@+id/simha"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/simha"
+            android:contentDescription="@string/simha"
+            android:layout_margin="10dp"
+            android:onClick="simha"
+            android:clickable="true"
+            />
+			
+			<ImageButton
+            android:layout_marginEnd="10dp"
+            android:id="@+id/kanya"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/kanya"
+            android:contentDescription="@string/kanya"
+            android:layout_margin="10dp"
+            android:onClick="kanya"
+            android:clickable="true"
+            />
+			
+			</LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2">
+			
+			<ImageButton
+            android:layout_marginEnd="10dp"
+            android:id="@+id/tula"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/tula"
+            android:contentDescription="@string/tula"
+            android:layout_margin="10dp"
+            android:onClick="tula"
+            android:clickable="true"
+            />
+			
+			<ImageButton
+            android:layout_marginEnd="10dp"
+            android:id="@+id/vrishchik"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/vrishchik"
+            android:contentDescription="@string/vrishchik"
+            android:layout_margin="10dp"
+            android:onClick="vrishchik"
+            android:clickable="true"
+            />
+			
+			<ImageButton
+            android:layout_marginEnd="10dp"
+            android:id="@+id/dhanu"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/dhanu"
+            android:contentDescription="@string/dhanu"
+            android:layout_margin="10dp"
+            android:onClick="dhanu"
+            android:clickable="true"
+            />
+			
+			
+			</LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2">
+			<ImageButton
+            android:layout_marginEnd="10dp"
+            android:id="@+id/makara"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/makara"
+            android:contentDescription="@string/makara"
+            android:layout_margin="10dp"
+            android:onClick="makara"
+            android:clickable="true"
+            />
+			
+			<ImageButton
+            android:layout_marginEnd="10dp"
+            android:id="@+id/kumbha"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/kumbha"
+            android:contentDescription="@string/kumbha"
+            android:layout_margin="10dp"
+            android:onClick="kumbha"
+            android:clickable="true"
+            />
+			
+			<ImageButton
+            android:layout_marginEnd="10dp"
+            android:id="@+id/meena"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/meena"
+            android:contentDescription="@string/meena"
+            android:layout_margin="10dp"
+            android:onClick="meena"
+            android:clickable="true"
+            />
+    </LinearLayout>
+
+    
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:height="30dp"
+            android:fontFamily="sans-serif"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:text="@string/copy"
+            android:textAlignment="center"
+            android:letterSpacing="0"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#fffafa"
+            android:id="@+id/copy"
+            android:clickable="true"
+            />
+
+    </LinearLayout>
+</LinearLayout>

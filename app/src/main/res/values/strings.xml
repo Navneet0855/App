@@ -1,0 +1,306 @@
+<resources>
+    <string name="app_name">Rashiphal  2020</string>
+    <string name="horoscope">Rashi</string>
+    <string name="title">Taare Zameen Par</string>
+    <string name="copy">Copyright &#169;  Ayraa Informatics Inc. 2020</string>
+    <string name="home">Go Home</string>
+    <string name="mesha">mesha</string>
+    <string name="vrishabha">vrishabha</string>
+    <string name="mithuna">mithuna</string>
+    <string name="karka">karka</string>
+    <string name="simha">simha</string>
+    <string name="kanya">kanya</string>
+    <string name="tula">tula</string>
+    <string name="vrishchik">vrishchik</string>
+    <string name="dhanu">dhanu</string>
+    <string name="makara">makara</string>
+    <string name="kumbha">kumbha</string>
+    <string name="meena">meena</string>
+
+    <string name="mesha_text"><![CDATA[
+        <h1>Mesha</h1>
+        <strong>March 21 to April 19</strong><br>
+        <strong>Element:</strong> Fire <br>
+        <strong>Planet:</strong> Mars <br>
+        <strong>Color:</strong> Red <br>
+       <p align="justify">
+       Mesha also known as Aries, is the first sign of the zodiac. The persons of this sign as a rule are solitary by nature.
+       
+       They have smiling faces and are less spoken. They are brisk walkers.
+	   Anger reflects from their faces. They have ample travels and frequent transfers
+	   from place to place in life. Service or business they acquire has touring feature. 
+	   They possess limited intelligence. They prefer to work under directions and guidance from others. 
+       They are usually short tempered and impatient in nature.</p>
+       <p align="justify">They are ambitious, courageous and vigilant for self-respect. They shape their own destiny by dint of struggle and hard work.
+	   They are straight forward, generous and lovers of freedom. They are practical at work and work for welfare in many areas of the social 
+	   fabric.They like to stick to the profession or job they do. They may sometimes be acknowledged as friend offenders in the
+	   society because they dont open up with their likes and dislikes. They usually have fewer children. They are gluttonous.
+       </p>
+       ]]></string>
+
+    <string name="vrishabha_text"><![CDATA[
+        <h1>Vrishabha</h1>
+        <strong>April 20 to May 20</strong><br>
+        <strong>Element:</strong> Earth<br>
+        <strong>Planet:</strong> Venus<br>
+        <strong>Color:</strong> Green<br>
+        <p align="justify">
+            Vrishabha also known as Taurus, the second sign of the zodiac. The ruler of the second house, is all about reward. Unlike 
+			the Aries love of the game, the typical Taurus personality loves the rewards of the game. Think physical pleasures and 
+			material goods, for those born under this sign revel in delicious excess. This zodiac sign is also tactile, enjoying a tender, 
+			even sensual, touch.
+        </p>
+        <p align="justify">
+            Taurus adores comfort and likes being surrounded by pleasing, soothing things. Along these lines
+			, they also favor a good meal and a fine wine. The good life in all its guises, whether it’s
+			the arts or art of their own making (yes, these folks are artistic as well), is heaven on Earth to the Taurus-born.
+        </p>
+
+    ]]></string>
+
+    <string name="mithuna_text"><![CDATA[
+        <h1>Mithuna</h1>
+        <strong>May 21 to June 21</strong><br>
+        <strong>Element:</strong> Air<br>
+        <strong>Planet:</strong> Mercury<br>
+        <strong>Color:</strong> Yellow, blue<br>
+        <p align="justify">
+           Mithuna also known as Gemini is the third sign of the zodiac, and those born 
+		   under this sign will be quick to tell you all about it. That’s because they love to talk!
+		   It’s not just idle chatter with these folks, either. The driving force behind a Gemini zodiac 
+		   sign’s conversation is their mind. Ruling the third house, the Gemini-born are intellectually
+		   inclined, forever probing people and places in search of information.
+        </p>
+		<p align="justify">
+			The more information a Gemini collects, the better. Sharing that information 
+			later on with those they love is also a lot of fun, for Geminis are supremely interested 
+			in developing their relationships. Dalliances with those of this astrology sign are always
+			enjoyable, since Geminis are bright, quick-witted and the proverbial life of the party.
+			Even though their intellectual minds can rationalize forever and a day, Geminis also have
+			a surplus of imagination waiting to be tapped. Can a Gemini sign be boring? Never!
+        </p>
+    ]]></string>
+
+    <string name="karka_text"><![CDATA[
+        <h1>Karka</h1>
+        <strong>June 22 to July 22</strong><br>
+        <strong>Element:</strong> Water<br>
+        <strong>Planet:</strong> Moon<br>
+        <strong>Color:</strong> Silver<br>
+        <p align="justify">
+           Karka also known as Cancer is the fourth sign of the zodiac,The persons under the influence of cancer sign 
+		   are sensitive, conservative. They are introverts. They love occult science. They are sympathetic, energetic and 
+		   imaginative. They usually live outside their native place. The sign includes last charans of Punarvasu,
+		   full Pushya and full Aashlesha Nakshatras.
+
+They are water lovers. They like natural scenery.</p>
+<p align="justify">
+ They love traveling and roaming. They are 
+ fearless and somewhat rough in talks but are straightforward. They love the opposite sex. 
+ Sometimes are bigamous. They are inventive and intuitive and are hurt easily. They are obstinate, 
+ non-emotional and show less hospitality and quite often are sentimental.
+They are slow workers. They have protruding hips and have slanted vision sight.
+ They obtain quick gains of their company. They also acquire inherited property.
+ They love luxuries in life and are usually pious people. They are prone to gastric 
+ aliments. They love fine arts like drama, music, acting etc.
+
+
+           </p>
+    ]]></string>
+
+    <string name="simha_text"><![CDATA[
+        <h1>Simha</h1>
+        <strong>July 22 to August 22</strong><br>
+        <strong>Element:</strong> Fire<br>
+        <strong>Planet:</strong> Sun<br>
+        <strong>Color:</strong> Gold<br>
+        <p align="justify">
+           Simha also known as Leo is the fifth sign of the zodiac,This rashi includes complete Magha,
+		   Poorva Phalguni and first charan of Uttara Phalguni. The people of this sign are courageous,
+		   tall in height and have powerful physique and broad chest. They possess impressive and commanding
+		   personality. They are born with leadership qualities and have magnetic power of attraction.
+They have reddish complexion
+  They have strong bones, broad forehead, beautiful eyes and big nose.
+  They are ambitious and have dominating nature.
+  </p>
+  <p align="justify">
+  They seek such occupations like military, police services or administrative services.They are proud, pious and clean hearted.
+  They get fewer results for their deeds but are never disappointed.  They love travels of hills and are adventurous. They like fast driving and fast
+  moving vehicles. They achieve rise in destiny very late sometimes above 30 yrs of age.
+  They have small families. Their pitch of voice is high. They are ambitious, autocratic, independent, 
+  strong-willed, suspicious, violent, ill tempered and jealous. They are strong and rough towards their subordinates.
+           </p>
+    ]]></string>
+
+    <string name="kanya_text"><![CDATA[
+        <h1>Kanya</h1>
+        <strong>August 23 to September 22</strong><br>
+        <strong>Element:</strong> Air, Water<br>
+        <strong>Planet:</strong> Mercury<br>
+        <strong>Color:</strong> Violet<br>
+        <p align="justify">
+           Kanya also known as Virgo is the sixth sign of the zodiac,Virgoans are shy and sensitive. 
+		   They usually walk with a curved neck. Smiling is a peculiar sign of their nature. They are practical, 
+		   intelligent and love refinement in life. This sign is made up of the last three charans of uttara phalguni,
+		   Hasta, and the first two charans of Chitra Nakshatras.
+
+            The persons with the influence have lively smiling faces, and carefree gait.
+             They are lazy and lethargic by nature. They are slow workers also. They have shrill voice. They sometimes lose luster of body.
+             They are intelligent, middle-heighted.
+			 </p>
+             <p align="justify">
+                They are artisans by nature. They are observant, patient, sensible, studious, soft spoken, and logical.
+				They do not reveal their secrets. They are shrewd but discrete.
+
+                They fall victims to stomach ailments like diarrhoea, loose motions, stomach aches. Allergy of skin is also their ailment.
+               
+                Travel is their favourite passion. They seldom lose temper. Lottery, speculation is their taste .
+				Usually they shift from their place of birth .They acquire estate or property at the fag end of life.
+                </p>
+    ]]></string>
+
+    <string name="tula_text"><![CDATA[
+        <h1>Tula</h1>
+        <strong>September 23 to October 22</strong><br>
+        <strong>Element:</strong> Earth, Water<br>
+        <strong>Planet:</strong> Venus<br>
+        <strong>Color:</strong> Green<br>
+        <p align="justify">
+           Tula also known as Libra is the seventh sign of the zodiac,The Librans are usually thin and tall. 
+		   They have conspicuous veins. This sign includes the last two charans of Chitra, Swati and three charans of Vishakha Nakshatras.
+
+They are logical with their nature and are dominated by balance and harmony.
+         They are sensitive, curious, will - principled, gentle, critical, good in perception, but are intolerant.
+		 Charming and easily mixing with people around are their sterling qualities. They are pious and spiritual.
+		 They are logical and as such balance all their deeds and relations with logic.
+
+They speak less but believe more in action.
+</p>
+         <p align="justify">
+		 They are learned, intelligent, and helpful to others and do social work. 
+		 They may have a thick nose but are attractive. They believe in religion. They are repellent to 
+		 opposite sex. The early stages of their lives are usually marked with hardships, but destiny shines to them between
+		  32-35 of their age.
+
+Great people help them. They are likely to have skin disorders like boils etc. 
+They impress people effortlessly. They are prone to kidney diseases. They marry usually rich spouse.
+ They come up in life in their native place itself.
+           </p>
+    ]]></string>
+
+    <string name="vrishchik_text"><![CDATA[
+        <h1>Vrishchik</h1>
+        <strong>October 23 to November 21</strong><br>
+        <strong>Element:</strong> Water<br>
+        <strong>Planet:</strong> Pluto<br>
+        <strong>Color:</strong> Black<br>
+        <p align="justify">
+           Vrishchik also known as Scorpio is the eighth sign of the zodiac,The scorpions
+		   are quite serious in nature mixed with a blend of jealousy. The sign comprises of the 
+		   last charan of Vishakha, full Anuradha and Jyeshta Nakshatras. The people with this sign
+		   are trustworthy, honest, truthful and sincere. They have big teeth, big jaws, fair complexion,
+		   medium height and fat body. They are of medium height and possess fat body appearance.
+
+They are short tempered, self-confident and courageous people.</p>
+  <p align="justify">
+ They normally seek jobs associated with chemicals, army and technology. They are also 
+ successful in business. They are violent and do not care for repercussions in scuffles and trifles.
+ They sometimes harm their health by addictions. They use rough language and are straightforward in their speech. 
+ They do and finish their work quite fast but irritate others by their nature.
+
+They speak less but believe more in action.</p>
+  <p align="justify">
+ They are learned, intelligent, and helpful to others and do social work. They may have a
+ thick nose but are attractive. They believe in religion. They are repellent to opposite sex. 
+ The early stages of their lives are usually marked with hardships, but destiny shines to them between 32-35 of their age.
+
+They are clever in earning. They dont have good relations with their brothers and sisters.
+ They may have scars on hands and legs. They are impatient and love rituals more than truth. Though they
+ are outspoken, a soft heart within them worries about children usually surrounding them.
+           </p>
+    ]]>
+    </string>
+
+        <string name="dhanu_text"><![CDATA[
+        <h1>Dhanu</h1>
+        <strong>November 22 to December 21</strong><br>
+        <strong>Element:</strong> Air, Fire<br>
+        <strong>Planet:</strong> Jupiter<br>
+        <strong>Color:</strong> Purple<br>
+        <p align="justify">
+           Dhanu also known as Sagittarius is the ninth sign of the zodiac,This Rashi sign is made up of full Nakshatras of Mool and Poorvashada and the first charan of Uttarashadha. The people under this sign are men of principle, following their religion. They are the nucleus of their families, earning for all.
+
+They have great potentials, happy and lucky attitude towards life.</p>
+ <p align="justify">
+ They are enterprising, logical, leaders, have healthy attitude towards life. They gain popularity through their actions and intelligence. They are optimistic, truthful and generous. They are loyal, independent, modest, and virtuous. They attain their goals in life. They are usually born in rich families and do not acquire riches by their efforts.
+
+They have long faces and necks and other parts of body attractive but conspicuous. They are soft-spoken and quite popular. They stick to their friendship. They are courageous but tolerant. They lose their hair of their head early. They work without thinking of fruits. Even if they are traders they are honest. They are quick to anger; are more idealistic and dominating. They attain rise of destiny at the age of 22-23 years.
+
+           </p>
+    ]]></string>
+
+    <string name="makara_text"><![CDATA[
+        <h1>Makara</h1>
+        <strong>December 22 to January 19</strong><br>
+        <strong>Element:</strong> Water, Earth<br>
+        <strong>Planet:</strong> Saturn<br>
+        <strong>Color:</strong> Black, Blue<br>
+        <p align="justify">
+           Makara also known as Capricorn is the tenth sign of the zodiac,This Rashi sign comprises of the first three charans of Uttarashad, Shravan complete and two charans of Dhanishta Nakshatras. The people under this sign are thin in body, long-necked and have thin teeth. They have hard hair on their scalp. They have strong bones. Sharpened chin is usually noticeable. They are stable and serious in nature. They set high standards for themselves. Sometimes their private and social lives are different. They are critical in nature and even do not spare themselves in criticism.
+
+They are slow workers but work confidently only.</p>
+  <p align="justify">
+ They are usually seen having large families. They are usually not sensitive about means but aim at the end only.
+
+They are introverts and are reserved in nature. They are highly ambitious and try utmost to acquire higher status in life. Their will power is strong. They are disappointed when they fail to achieve the goal they aspire set goal in their life. The seers and sages are also found under this sign. They may have to face rivalry and strong enmity in life. They are showy sometimes. Rise in destiny is marked at 32-33 years of age. They develop ailments associated with allergies, hypertension and weak-back.
+           </p>
+    ]]></string>
+
+    <string name="kumbha_text"><![CDATA[
+        <h1>Kumbha</h1>
+        <strong>January 20 to February 18</strong><br>
+        <strong>Element:</strong> Air, Fire, Water<br>
+        <strong>Planet:</strong> Uranus<br>
+        <strong>Color:</strong> Green, blue<br>
+        <p align="justify">
+           Kumbha also known as Aquarius is the eleventh sign of the zodiac,This Rashi sign consists of last two charans of Dhanishta ,Shatbhisha complete and the first three charans of Poorvabhadrapada Nakshatras. Aquarians are lovers of personal freedom. The height of the body is dwarf or medium. The forehead is small and face less attractive. They are imaginative, serious and spiritual in nature. Their back is wide and sound. They are behaviourists, kind and helpful. They tend to hide their character and are attracted to the opposite sex.
+
+They do not make friends easily but like the friends they have.</p>
+ <p align="justify">
+ They are afraid of sins. They acquire friends of higher status and caliber.
+
+They are of fair complexion and have fatty fore and hind limbs. They are emotional and cannot see the adversities of others. They are affected with headaches, indigestion and stomach irregularities. They are theists and believe in religious values.They are attached to their spouses and are called gentlemen. They have to travel for their livelihood and usually have more than one source of income.
+
+They are unprejudiced, frank, tolerant, quick-witted, practical, intuitive and imaginative.
+
+They inherit property but face litigation, sometimes of disputes in the process of inheritance.
+
+
+           </p>
+    ]]></string>
+
+
+    <string name="meena_text"><![CDATA[
+        <h1>Meena</h1>
+        <strong>February 19 to March 20</strong><br>
+        <strong>Element:</strong> Water<br>
+        <strong>Planet:</strong> Neptune<br>
+        <strong>Color:</strong> Light blue<br>
+        <p align="justify">
+           Meena also known as Pisces is the twelvth sign of the zodiac,This Rashi comprises of the last charan of Poorvabhadrapada, complete Uttara-bhadrapada and Revti Nakshatras. The persons under this sign have good qualities like truthfulness, innocence, logical thinking and love for mankind.
+
+They are dwarf-heighted,have small parts of body and beautiful nose,are lazy by nature but versatile, ardent lovers of pleasure, good writers. They easily trust people. They have simple life. They face dangers in early life and are sometimes courageous and at times timid. They develop friendship with leading and popular people. They do work after meticulously pondering over matters and issues.
+
+They drink more water. They commonly become popular because of their easygoing nature.</p>
+  <p align="justify">
+ They tend to be more emotional rather than rational. They have limited concentration and will power. They are gifted with commanding and impressive personality. They sensibly divide their time between work and rest. They are idle and careless, sometimes dishonest in their dealings.
+
+They are afraid of sins. They have good speculative power.</p>
+  <p align="justify">
+ They earn large sums all of a sudden in life. They are calm and cool by nature and earn by dint of their own efforts in life. They travel a lot and have many children.
+
+They are unprejudiced, frank, tolerant, quick-witted, practical, intuitive and imaginative. They inherit property but face litigation, sometimes of disputes in the process of inheritance. They are patients of arthritis, stomach ailments, heart and eye diseases. They start earning at 20-21 years of their age.
+
+           </p>
+    ]]></string>
+</resources>
